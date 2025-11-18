@@ -117,12 +117,6 @@ This will open the app in your default browser.
 
 This project is licensed under the MIT License.
 
-```
 
----
 
-I can also make a **more visual README** with tables for scripts, models, and sample predictions if you want it to look professional for GitHub.  
-
-Do you want me to do that?
-```
 
