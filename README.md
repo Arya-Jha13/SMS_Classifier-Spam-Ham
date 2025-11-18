@@ -48,6 +48,8 @@ README.md
 - **model_manual_svm.py** → Contains the **ManualSVM** class for SVM implementation  
 
 ---
+![Confusion Matrix](Confusion Metrices.png)
+
 
 ## Installation
 
@@ -123,3 +125,4 @@ I can also make a **more visual README** with tables for scripts, models, and sa
 
 Do you want me to do that?
 ```
+
