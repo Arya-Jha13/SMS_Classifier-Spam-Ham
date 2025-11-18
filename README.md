@@ -105,6 +105,11 @@ This will open the app in your default browser.
 [Click here to access the SMS Spam Detection App](https://sms-spamvsham-87lizgx3akrctvvxh8bycm.streamlit.app/)
 
 ---
+## Report / Documentation
+
+You can access the full LaTeX project report here: **[View Report](https://drive.google.com/file/d/1-67PmW_SrLsmY4M0p_2RazsO8jiupnAO/view?usp=sharing)**
+
+---
 
 
 ## Authors
@@ -120,6 +125,7 @@ This will open the app in your default browser.
 ## License
 
 This project is licensed under the MIT License.
+
 
 
 
