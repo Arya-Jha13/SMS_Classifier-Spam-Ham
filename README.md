@@ -1,7 +1,7 @@
 # SMS Spam Classifier Project
 
 This project implements a **SMS Spam Classification system** using three models: **Naive Bayes (NB), Neural Network (NN), and SVM**. The system can classify an SMS as **Spam** or **Ham** and compare the performance of all three models.
-
+Users can type their message in the textbox to classify the meaassage.
 ---
 
 ## Project Structure
@@ -125,6 +125,7 @@ You can access the full LaTeX project report here: **[View Report](https://drive
 ## License
 
 This project is licensed under the MIT License.
+
 
 
 
